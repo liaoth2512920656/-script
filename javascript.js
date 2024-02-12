@@ -1,0 +1,1 @@
+document.querySelector('a.navbar-brand.navbar-title').href = 'https://bk.liaoth.com/';
